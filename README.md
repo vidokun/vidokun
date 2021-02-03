@@ -1,7 +1,7 @@
 <h1 align="center">Halo 👋, Saya Vido Rizki</h1>
 <h3 align="center">Dream Bigger アイシテル</h3>
 
-- 🔭 Saya bekerja di **Origamy Creative Agency**
+- 🔭 Developer di **Origamy Creative Agency**
 
 - 📫 Email **vidorizki@gmail.com**
 
