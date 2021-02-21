@@ -5,4 +5,4 @@
 
 - 📫 Email **vidorizki@gmail.com**
 
-- 🌐 vidokun.com
+- 🌐 **vidokun.com**
